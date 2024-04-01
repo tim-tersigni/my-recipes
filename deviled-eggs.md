@@ -4,13 +4,13 @@
 ---
 ### Base Ingredients
 
-| Ingredient                                  | Measurement       |
-| ------------------------------------------- | ----------------- |
-| Hard-boiled Eggs                            | 24 whole          |
-| Mayonaise                                   | 3/4 cup and 1 tsp |
-| Del Dixie Jalapeño Bread and Butter Pickles | 5 slices          |
-| Dill Pickles                                | 8 slices          |
-| French's Mustard                            | 1/8 cup and 2 tsp |
+| Ingredient                                  | Measurement        |
+| ------------------------------------------- | ------------------ |
+| Hard-boiled Eggs                            | 24 whole           |
+| Mayonaise                                   | 3/4 cup and 1 tbsp |
+| Del Dixie Jalapeño Bread and Butter Pickles | 5 slices           |
+| Dill Pickles                                | 8 slices           |
+| French's Mustard                            | 1/8 cup and 2 tsp  |
 
 ### Seasonings
 
