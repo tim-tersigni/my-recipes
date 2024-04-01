@@ -8,16 +8,16 @@
 | ------------------------------------------- | ----------------- |
 | Hard-boiled Eggs                            | 24 whole          |
 | Mayonaise                                   | 3/4 cup and 1 tsp |
-| Del Dixie Jalapeño Bread and Butter Pickles | 7 slices          |
-| Dill Pickles                                | 4 slices          |
-| French's Mustard                            | 1/8 cup and 1 tsp |
+| Del Dixie Jalapeño Bread and Butter Pickles | 5 slices          |
+| Dill Pickles                                | 8 slices          |
+| French's Mustard                            | 1/8 cup and 2 tsp |
 
 ### Seasonings
 
 | Ingredient              | Measurement |
 | ----------------------- | ----------- |
 | Old Bay Seasoning       | 1/2 tsp     |
-| Pickle Juice            | 1/4+ tsp    |
+| Dill Pickle Juice       | 1/4+ tsp    |
 | Dry Mustard             | 1/4 tsp     |
 | Curry Powder            | 1/8+ tsp    |
 | Garlic Powder           | 1/8 tsp     |
